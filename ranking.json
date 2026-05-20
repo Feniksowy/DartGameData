@@ -1,7 +1,5 @@
 {
   "players": [
-    {
-  "players": [
     { "playerName": "Luke Littler", "money": 2929500, "isHuman": false },
     { "playerName": "Luke Humphries", "money": 1198000, "isHuman": false },
     { "playerName": "Gian van Veen", "money": 928750, "isHuman": false },
@@ -191,7 +189,5 @@
     { "playerName": "Samuel Whittaker", "money": 1250, "isHuman": false },
     { "playerName": "Danny van Trijp", "money": 750, "isHuman": false },
     { "playerName": "Jesus Salate", "money": 750, "isHuman": false }
-  ]
-}
   ]
 }
