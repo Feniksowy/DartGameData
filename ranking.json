@@ -1,0 +1,29 @@
+{
+  "players": [
+    {
+      "playerName": "Luke Humphries",
+      "money": 1500000,
+      "isHuman": false
+    },
+    {
+      "playerName": "Michael van Gerwen",
+      "money": 1100000,
+      "isHuman": false
+    },
+    {
+      "playerName": "Michael Smith",
+      "money": 1000000,
+      "isHuman": false
+    },
+    {
+      "playerName": "Luke Littler",
+      "money": 650000,
+      "isHuman": false
+    },
+    {
+      "playerName": "Krzysztof Ratajski",
+      "money": 350000,
+      "isHuman": false
+    }
+  ]
+}
